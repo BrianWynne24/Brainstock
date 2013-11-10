@@ -1,0 +1,71 @@
+Hey guys! Some of the people here might have actually played the old BrainStock back on Garry's Mod 9 you would remember that it had a decent community behind it and a shitty lua script I made. In fact, it was one of my first lua scripts I had made and there were some pretty pointless features to it. Now I'm trying to re-new the gamemode and blow the dust off of it.
+
+[b][u]What is BrainStock?[/b][/u]
+BrainStock is a zombie gamemode built on Survival. [highlight]Wait! Don't leave yet![/highlight] To be fair I had the idea of finding items and killing players well before DayZ and WarZ and all these "Z" games were out. Now, carrying on. BrainStock is a gamemode were players need to roam around and find items. Of course both zombies and players being a threat to their lives. Players will need to built their reputation on how to act and treat other players. A key to survival is grouping together and taking up arms against the zombie horde and players that are threats to others. Evil players can be a huge threat to players depending on their reputation.
+
+[b][u]Did you say Evil?[/b][/u]
+Why yes I did. See reputation is based on a system of "Good" and "Evil" (Names subject to change.) New players will spawn in for the first time as a Neutral player. Players will then have the option of becoming what reputation best suits them on how they interact with other players. For instance, if you want to be a "Good" player you can earn your reputation by healing other players, giving or sharing your loot, or by even saving their lives. Now the "Evil" players will earn their reputation by killing or injuring other players. You can change your reputation at any time but I do warn you, it is a grind and you should commit to only one side. Both reputations have different advantages and disadvantages.
+
+[b][u]What does Good advantages have?[/b][/u]
+Well, I'm glad you asked! Players that have a Good advantage will be able to access shops in the safe-zone. Once in the safe-zone no player can or zombie can harm you there, you're perfectly safe! Although you have access to shops, they have a limited supply of well, you know, supplies. You can barter the shop keepers supplies with your own. There is no currency in the game and all deals have to be made through trading but the more good you are the more the shop keeper will accept your trade. On the other hand once the shop keeper runs out of a certain stock of an item its gone from the shop forever. Before I get more in to that let me tell you about the "Evil" players.
+
+[b][u]What does Evil advantages have?[/b][/u]
+The evil players will be banished from the safe-zone. They do not have the luxury of bartering their items with the shop keepers and if they come near the safe-zone they are shot down (by guards). Now I know this might seem a little extreme but Evil players have to fend for themselves in order to survive and at all times have to watch their backs. Evil players do however have to luxury of killing everybody they see and stealing the other players loot. Also if Evil players get to keep supplies they can take if they set off on a mission.
+
+[b][u]So I can group with other players?[/b][/u]
+Yes! You can invite and accept others group requests to join in their group. Once in their group you can not harm nor hurt each other. Players in groups can go out and scavenge items together and make things more quick and efficient. If they decided to at any time a squad member can suggest to run a mission. All players in the group must be ready and willing for the mission to go through. There is no group leader so anybody can suggest it at anytime! Groups are allowed a maximum of 4 players and a minimum of 2
+
+[b][u]What is this Mission you keep mentioning[/b][/u]
+Missions. Well now, the most common type of mission is a "Supply Run." Like I've stated before once the shop keepers items are out of stock players can group up and head out on a mission. This will load the your group in to a separate server with the mission they've agreed on. Missions can range from map to map and different types. Supply runs players will have to get supply crates (4) and bring them back to the supply truck but beware. When players are carrying a supply crate their movement speed is slower and can not shoot. When players secure all 4 supply crates the mission is complete. "Good" players will benefit by re-stocking the their shop keepers inventory and you get a discount on all items for 24 hours. "Evil" players benefit by taking the loot for themselves and when loaded back to the main server can add items and remove items from their supply crate. Other missions include "Over run" which is hold a point for a certain timelimit and "VIP" which is escorting a random player from Point A to B. VIPs will not be able to sprint.
+If a player dies in this mission he can still watch but will only receive half of the rewards as to a person who had survived. On these missions players can pick their loadouts which will be and accessible to every weapon put in to the game.
+
+[b][u]What zombies are there[/b][/u]
+As of right now I have walking zombies and running zombies. On a mission walking zombies will be unavailable. In the main server both zombies will be available and they will roam unless they pick up your scent.
+
+[b][u]Any other features in this gamemode[/b][/u]
+Yes, if you were unlucky enough to be killed by a zombie, your corpse turns in to a zombie on the spot. In order to get your stuff back off your dead body you must find you dead self and kill him (you?).
+
+[b][u]Videos[/b][/u]
+Leaning & Sliding
+[media]http://www.youtube.com/watch?v=QCkjHYJcByM[/media]
+
+Hints & Other things
+[media]http://www.youtube.com/watch?v=AE-8S_3G8PI[/media]
+
+FIRST BETA TEST (CLOSED)
+[media]http://www.youtube.com/watch?v=d3LMPE4yakA[/media]
+
+New Zombies and Melee Weapons
+[media]http://www.youtube.com/watch?v=gGvPO_2-BbQ[/media]
+
+Perks, and the new HUD
+[media]http://www.youtube.com/watch?v=cGtNlkidaTc[/media]
+
+Sniper rifles and a Icepick
+[media]http://www.youtube.com/watch?v=13mhDJCCqfA[/media]
+
+Inventory System, also shows over the player breathing when he is running to long.
+[VIDEO]http://www.youtube.com/watch?v=Poj_Tp-FNkg[/VIDEO]
+
+Helicopter Drop off, Rough copy
+[VIDEO]http://www.youtube.com/watch?v=fo99R771trg[/VIDEO]
+
+This is a stress test of me running a mission by myself.
+[VIDEO]http://www.youtube.com/watch?v=y5_YWa_wI5U[/VIDEO]
+
+This is dropping a crate off to the supply truck (Truck now adds crates to it)
+[VIDEO]http://www.youtube.com/watch?v=c-zX7xW3Kx4[/VIDEO]
+
+Achievements will be in here as well
+[VIDEO]http://www.youtube.com/watch?v=qyCO8Tem8go[/VIDEO]
+
+This is the form of stamina in the game.
+[VIDEO]http://www.youtube.com/watch?v=QB-ZJVA6d3k[/VIDEO]
+[highlight]This is still an Alpha and will continue to be until I feel it should change. All gameplay and features are not final[/highlight]
+
+[u][b]Screenshots[/b][/u]
+Inventory System, this is stil in progress
+[img]http://i49.tinypic.com/1g0fog.png [/img]
+
+Title Menu, when a palyer first joins/spawns in to the server
+[img]http://i47.tinypic.com/35jjwg9.png [/img]

@@ -1,0 +1,6 @@
+"Gamemode"
+{
+	"title"		"Brainstock"
+	"base"		"base"
+	"menusystem" "1"
+}

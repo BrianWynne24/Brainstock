@@ -1,0 +1,59 @@
+This gamemode is Copyrighted under the Creative Commons Licences. Under no circumstances
+are you allowed to distribute or modify this gamemode and all that is included in to it,
+This includes entities, scripted weapons, and scripted NPCs. This gamemode is a non-commercial
+free gamemode and can not be used for commercial use under and circustance. The name Brainstock
+is also copyrighted under Creative Commons Licences and may not be used unless asked permission
+of the creator himself, Brian Wynne.
+
+Build 01:
+-Added Rex Revolver
+-Added global zombie spawner cap
+-Added saving and loading
+-Added weapon lowers when on a ladder
+-Added [FLASHLIGHT] key will now override to Nightvision if available
+
+-Fixed Nightvision being too bright
+-Fixed Mass zombie spawn in 'middle market'
+-Fixed Melee weapons double-hitting (Only serverside fix for now)
+-Fixed Weapon shaking when sprinting
+
+-Changed M4 hip-fire spread from 0.025 to 0.035
+-Changed Glock17 hip-fire spread from 0.013 to 0.035
+-Changed Zombie spawner cap from 5 to 3
+-Changed Melee primary fire is now faster
+-Changed "5.56x45mm" in now just printed "5.56 Rounds"
+
+-Removed '+zoom' console command
+
+Build 02:
+-Added names above items when close (arrow color changes accordingly to how rare it is)
+-Added New perk 'Shield' - will absorb 15 damage for the player
+-Added New perk 'Faster Reload' - will reload your weapon faster
+-Added Weapon will now lift a bit when the player is in the air
+-Added Icons to some items when in the inventory
+-Added 'Accessories' players can now wear items. In the future the items will actually have benefits
+-Added Accessory 'Kevlar'
+-Added Accessory 'Riot Helmet'
+-Added Accessory 'Surgical Mask'
+-Added Accessory 'Gasmask'
+-Added Weapon will now move up when in the air
+
+-Fixed no player spawns on the map
+-Fixed 'cat-jump' with the slide perk
+-Fixed perks not loading on spawns
+-Fixed bug when hitting backwards your strafe would be very slow
+
+-Changed Inventory system. Major overhaul
+-Changed Inventory system is now 'Q' instead of 'F1'
+-Changed Decreased sniper rifle stamina sway
+
+Build 03:
+-Added Weapon 'G3SG-1'
+-Added Footsteps and now louder when running and you are silent when crouching
+
+-Fixed FAL's ironsight spread being dead accurate
+-Fixed weapon sounds cutting off when reloading
+-Fixed server not connecting to MySQL
+
+-Changed melee weapons now have multiple traces. You do not have to look directly at the target
+-Changed weapon selection text to icons
